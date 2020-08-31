@@ -1,6 +1,6 @@
 # Blog Link
 <https://blogista.herokuapp.com/>
-# Blog build using Django
+## Blog build using Django
 * FrontEnd: HTML, CSS, Bootstrap
 * Database: Postgresql (both local and deployment -- Heroku)
 
