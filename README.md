@@ -2,4 +2,4 @@
 Django based web application
 
 
-[Heroku link](https://blogista.herokuapp.com/)
+[Heroku link]:https://blogista.herokuapp.com/
